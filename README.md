@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monster2025 or Abdullah
-- 👀 I’m interested in streaming and build websites
+- 👀 I’m interested in streaming and building websites
 - 🌱 I’m currently learning Javascript
 - 📫 You can reach out to me via discord MONSTER20#2021 
 
